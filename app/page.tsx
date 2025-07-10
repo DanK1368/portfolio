@@ -7,7 +7,7 @@ export default function Home() {
    const githubLink = 'https://github.com/DanK1368';
    const linkedinLink = 'https://linkedin.com/in/daniel-koett';
    const email = 'danielkoett@gmail.com';
-   const matrixLink = 'https://matrix.to/#/@daniel:matrix.koett.ch';
+   const matrixLink = 'https://matrix.to/#/@daniel:koett.ch';
 
    return (
       <div className="flex-1 flex flex-col items-center justify-center">
