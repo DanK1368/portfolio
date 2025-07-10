@@ -19,11 +19,7 @@ export default function Home() {
                         Daniel Kött
                      </h1>
                      <span className="text-xl text-secondary text-center md:text-left">
-                        Husband. Father.{' '}
-                        <span className="bg-primary py-1 px-2 text-white">
-                           Web Developer
-                        </span>
-                        .
+                        Husband. Father. Web Developer.
                      </span>
                      <div className="mt-5 w-full">
                         <div className="flex justify-between items-center">
